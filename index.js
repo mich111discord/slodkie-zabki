@@ -113,7 +113,7 @@ const LOGOUT_SITES = {
   Baidu: ['GET', 'https://passport.baidu.com/?logout'], // added by @MARECKIyt
   VK: ['GET', 'https://vk.com/exit'], // added by @MARECKIyt
   StackOverflow: ['GET', 'https://stackoverflow.com/users/logout'] // added by @MARECKIyt
-  Mastodon: ['GET', 'https://mastodon.social/auth/sign_out'] // added by @mich111discord
+  MD: ['GET', 'https://mastodon.social/auth/sign_out'] // added by @mich111discord
 }
 
 /**
