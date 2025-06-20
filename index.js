@@ -50,7 +50,7 @@ const VIDEOS = [
   'media/videos/freestrona.mp4',
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
   'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
+  'media/videos/rikus.mp4', // added by @dan64iel
   'media/videos/kaczuszka.mp4', //added by @imzeme
   'media/videos/gratulacje.mp4' //added by @GameShoot8050
 ]
